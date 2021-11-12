@@ -1,3 +1,5 @@
 ALO PESSOAL DO XP 40, BORA COLOCAR OS PROJETOS NO GITHUB URGENTE
 
 FLWWWW
+
+O core diz para digita Hello World!
